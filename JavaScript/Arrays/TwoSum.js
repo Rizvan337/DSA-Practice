@@ -12,7 +12,7 @@ var twoSum = function(nums, target) {
 
 
 
-// 1. Two Sum - Hash Map
+// 2. Two Sum - Hash Map
 var twoSum = function(nums, target) {
     let map = new Map()
     for(let i=0;i<nums.length;i++){
