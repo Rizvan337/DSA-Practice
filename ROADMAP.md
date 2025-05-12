@@ -11,8 +11,8 @@ Here's my progress chart for practicing DSA daily.
 ### ✅ Arrays
 
 - [x] 1. Two Sum
-- [ ] 53. Maximum Subarray
-- [ ] 121. Best Time to Buy and Sell Stock
+- [x] 53. Maximum Subarray
+- [x] 121. Best Time to Buy and Sell Stock
 
 ### 🔜 Strings
 - [ ] Coming soon...
