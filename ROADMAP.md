@@ -15,7 +15,9 @@ Here's my progress chart for practicing DSA daily.
 - [x] 121. Best Time to Buy and Sell Stock
 
 ### 🔜 Strings
+- [x] 242. Valid Anagram
+
 - [ ] Coming soon...
-- [] 242. Valid Anagram
+
 - [] 344. Reverse String
 - [] 3. Largest substring without repeating characters
