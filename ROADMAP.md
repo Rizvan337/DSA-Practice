@@ -16,8 +16,8 @@ Here's my progress chart for practicing DSA daily.
 
 ### 🔜 Strings
 - [x] 242. Valid Anagram
+- [x] 344. Reverse String
 
 - [ ] Coming soon...
 
-- [] 344. Reverse String
 - [] 3. Largest substring without repeating characters
