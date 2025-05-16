@@ -23,13 +23,14 @@ Here's my progress chart for practicing DSA daily.
 
 ### 🔜 Hash maps and Hash sets
 
+## HashSet problems
+- [x] 217. Contains Duplicate
+- [] 349. Intersection of Two Arrays
+- [] 202. Happy Number
+
 ## HashMap problems
 - [] 49. Group Anagrams
 - [] 347. Top K Frequent Elements
 - [] 560. Subarray Sum Equals K
 
-## HashSet problems
-- [] 217. Contains Duplicate
-- [] 349. Intersection of Two Arrays
-- [] 202. Happy Number
 
