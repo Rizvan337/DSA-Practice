@@ -9,7 +9,7 @@ var intersection = function(nums1, nums2) {
             }
         }
     }
-    return Array.from
+    return Array.from(set)
 }
 
 // 2.Using hash set (O(n + m)) 
