@@ -25,8 +25,8 @@ Here's my progress chart for practicing DSA daily.
 
 ## HashSet problems
 - [x] 217. Contains Duplicate
-- [] 349. Intersection of Two Arrays
-- [] 202. Happy Number
+- [x] 349. Intersection of Two Arrays
+- [x] 202. Happy Number
 
 ## HashMap problems
 - [] 49. Group Anagrams
