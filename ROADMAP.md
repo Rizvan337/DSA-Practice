@@ -19,8 +19,6 @@ Here's my progress chart for practicing DSA daily.
 - [x] 344. Reverse String
 - [x] 3. Largest substring without repeating characters
 
-- [ ] Coming soon...
-
 ### 🔜 Hash maps and Hash sets
 
 ## HashSet problems
@@ -28,8 +26,10 @@ Here's my progress chart for practicing DSA daily.
 - [x] 349. Intersection of Two Arrays
 - [x] 202. Happy Number
 
+- [ ] Coming soon...
+
 ## HashMap problems
-- [] 49. Group Anagrams
+- [x] 49. Group Anagrams
 - [] 347. Top K Frequent Elements
 - [] 560. Subarray Sum Equals K
 
