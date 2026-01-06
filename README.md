@@ -1,5 +1,4 @@
-# 💻 DSA Daily Practice by Rizvan
-
+# 💻 DSA Daily Practice 
 Welcome to my **Data Structures and Algorithms (DSA)** practice repository!  
 I'm solving one DSA problem every day, writing **clean code** and **clear explanations**.
 
